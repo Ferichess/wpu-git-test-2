@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>hello world</h1>
-    
+    <p>menambahkan file inddex</p>
 </body>
 </html>
